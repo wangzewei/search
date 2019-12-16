@@ -1,7 +1,7 @@
 /* JavaScript written by MaoRX.cn */
 var version="19w51a1";
 console.info("Version "+version);
-var backend="https://maorx.cn/a/";
+var backend="https://search.wangzewei.cn/";
 var lastModified0="";
 var currentEditingNote="";
 var currentNotes="";
